@@ -6,6 +6,7 @@ Należy pobrać projekt znajdujący się w repozytorium:
 https://github.com/rmarzec/tests.git
 A następnie uruchomić (np. w IntelliJ) przykładowy test (klasa com.gitlab.rmarzec.task.Task1Test). Do
 uruchomienia projektu niezbędna jest java w wersji 1.8 oraz maven.
+
 Zadanie 2
 Należy rozbudować klasę com.gitlab.rmarzec.task.Task2Test aby realizowała scenariusz:
 1. Otwarcie adresu https://pl.wikipedia.org/wiki/Wiki
