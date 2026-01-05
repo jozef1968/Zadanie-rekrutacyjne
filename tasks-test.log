@@ -1,0 +1,25 @@
+2026-01-05 16:48:14 INFO  WebDriverManager - Exporting webdriver.gecko.driver as /home/jozef/.cache/selenium/geckodriver/linux64/0.34.0/geckodriver
+2026-01-05 16:48:18 INFO  Task4Test - START testu Task4 – wyszukiwanie filmów bez LIVE
+2026-01-05 16:48:18 INFO  Task4Test - Otwarcie strony youtube.com
+2026-01-05 16:48:20 INFO  Task4Test - Akceptacja cookies dla youtube.com
+2026-01-05 16:48:57 INFO  Task4Test - Przejście na zakładkę Shorts
+2026-01-05 16:48:57 INFO  Task4Test - Wypisanie nazwy kanału
+2026-01-05 16:49:00 INFO  Task4Test - Powrót na stronę główną linkiem Home
+2026-01-05 16:49:05 INFO  Task4Test - Szukanie filmów LIVE
+2026-01-05 16:49:05 INFO  Task4Test - Sprawdzenie nagłówka strony
+2026-01-05 16:49:06 INFO  Task4Test - Zbieram listę filmów (limit = 12)
+2026-01-05 16:56:38 INFO  Task4Test - Wyświetlam filmy bez znacznika Live
+2026-01-05 16:58:45 INFO  WebDriverManager - Exporting webdriver.gecko.driver as /home/jozef/.cache/selenium/geckodriver/linux64/0.34.0/geckodriver
+2026-01-05 16:58:48 INFO  Task3Test - Otwarcie strony google.com
+2026-01-05 16:58:49 INFO  Task3Test - Akceptacja cookies dla google.com
+2026-01-05 16:58:50 INFO  Task3Test - Wpisanie żądanego tekstu: HTML select tag - W3Schools
+2026-01-05 16:58:50 INFO  Task3Test - Kliknięcie w klawisz Szczęśliwy traf
+2026-01-05 16:58:56 INFO  Task3Test - Załadowanie strony tag_select.asp
+2026-01-05 16:58:56 INFO  Task3Test - Akceptacja cookies
+2026-01-05 16:59:27 INFO  Task3Test - Kliknięcie klawisza Try it
+2026-01-05 16:59:27 INFO  Task3Test - Odczytanie treści nagłówka
+2026-01-05 16:59:29 INFO  Task3Test - Wybór opla
+2026-01-05 17:00:02 INFO  WebDriverManager - Exporting webdriver.gecko.driver as /home/jozef/.cache/selenium/geckodriver/linux64/0.34.0/geckodriver
+2026-01-05 17:00:06 INFO  Task2Test - START testu Task2 – otwieranie strony WikiPedia
+2026-01-05 17:00:07 INFO  Task2Test - Poszukiwanie listy języków
+2026-01-05 17:00:08 INFO  Task2Test - Wyświetlanie listy języków
